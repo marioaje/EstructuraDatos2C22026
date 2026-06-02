@@ -18,18 +18,18 @@
 #include "Arbol.h"
 
 
-int main()
-{
-	Nodo* raiz = nullptr; //inicializamos la raiz del arbol como nula
-    int opcion;
-	int valor;
-
-    std::cout << "Arbol!\n";
-	/*while*/
-
-	raiz = insertarNodo(raiz, 5); //insertamos el valor 5 en el arbol
-
-}
+//int main()
+//{
+//	Nodo* raiz = nullptr; //inicializamos la raiz del arbol como nula
+//    int opcion;
+//	int valor;
+//
+//    std::cout << "Arbol!\n";
+//	/*while*/
+//
+//	raiz = insertarNodo(raiz, 5); //insertamos el valor 5 en el arbol
+//
+//}
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
