@@ -21,12 +21,27 @@
     <ClCompile Include="Arbol.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AVL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bPlusTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainbPlusTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arbolbplus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arbol.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="avl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bplustree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
