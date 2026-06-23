@@ -133,6 +133,7 @@
     <ClCompile Include="bPlusTree.cpp" />
     <ClCompile Include="ConsoleApplicationEstructuraDatos.cpp" />
     <ClCompile Include="mainbPlusTree.cpp" />
+    <ClCompile Include="memorias.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arbol.h" />
