@@ -132,6 +132,7 @@
     <ClCompile Include="AVL.cpp" />
     <ClCompile Include="bPlusTree.cpp" />
     <ClCompile Include="ConsoleApplicationEstructuraDatos.cpp" />
+    <ClCompile Include="hilo.cpp" />
     <ClCompile Include="mainbPlusTree.cpp" />
     <ClCompile Include="memorias.cpp" />
   </ItemGroup>

@@ -14,9 +14,11 @@ void deposita()
 	mtx.lock();
 
 	//Proteger el saldo
+	cout << "saldo antes del mtx" << saldo << endl;
 		saldo += 100;
 
-		mtx.unlock();	
+		cout << "saldo antes del mtx" << saldo << endl;
+		mtx.unlock();
 
 }
 
